@@ -1,0 +1,10 @@
+{
+    "scripts": {
+        "start": "server.js"
+    },
+    "dependencies": {
+        "express": "4.13.3"
+    },
+    "author": "Cindy Zhao",
+    "License": "ISC"
+}
