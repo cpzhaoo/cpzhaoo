@@ -3,7 +3,7 @@
         "start": "server.js"
     },
     "dependencies": {
-        "express": "4.13.3"
+        "express": "4.17.3"
     },
     "author": "Cindy Zhao",
     "License": "ISC"
